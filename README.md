@@ -1,13 +1,15 @@
 ### Hi there 👋
 
-- I'm currently working on:
-  - 🚗 Self-driving using reinforcement learning
-  - 🧠 Hierarchical Temporal Memory (HTM) implementation using sparse matrix representation
-  - 📈 Analysis portfolio of renewable tech growth stocks
-- I'm currently learning:
+- **Working on**:
+  - 🚗 [Self-driving using end-to-end reinforcement learning](https://github.com/csongorpilinszkinagy/self-driving)
+  - 🧠 [Hierarchical Temporal Memory (HTM)](https://github.com/csongorpilinszkinagy/htm-python) implementation using sparse matrix representation
+  - [Cardiovascular disease (CVD)](https://github.com/csongorpilinszkinagy/cardiovascular-disease-analysis) analysis
+  - 📈 [Analysis portfolio](https://github.com/csongorpilinszkinagy/stock-analysis) of renewable tech growth stocks
+  - 🎄 Coding challenges on previous [Advent of Code](https://github.com/csongorpilinszkinagy/advent-of-code-2015)
+- **Learning**:
   - 🐍 Python (advanced features)
   - 🦀 Rust (beginner)
-- I'm looking to collaborate on:
+- **Collaborate on**:
   - 🤖 Machine learning / Reinforcement learning
   - 🕸️ Rust and WebAssembly
 
