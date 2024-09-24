@@ -1,29 +1,38 @@
-### Hi there 👋
+## Hi there! 👋 Welcome to my GitHub
 
-- **Working on**:
-  - 🚗 [Self-driving using end-to-end reinforcement learning](https://github.com/csongorpilinszkinagy/self-driving)
-  - 🧠 [Hierarchical Temporal Memory (HTM)](https://github.com/csongorpilinszkinagy/htm-python) implementation using sparse matrix representation
-  - [Cardiovascular disease (CVD)](https://github.com/csongorpilinszkinagy/cardiovascular-disease-analysis) analysis
-  - 📈 [Analysis portfolio](https://github.com/csongorpilinszkinagy/stock-analysis) of renewable tech growth stocks
-  - 🎄 Coding challenges on previous [Advent of Code](https://github.com/csongorpilinszkinagy/advent-of-code-2015)
-- **Learning**:
-  - 🐍 Python (advanced features)
-  - 🦀 Rust (beginner)
-- **Collaborate on**:
-  - 🤖 Machine learning / Reinforcement learning
-  - 🕸️ Rust and WebAssembly
+I'm a **Machine Learning Engineer** specializing in **Reinforcement Learning** and **Biological Neural Networks**. My research currently focuses on **Hierarchical Temporal Memory (HTM)** networks and building my **Investment Portfolio**.
 
-<!--
-**csongorpilinszkinagy/csongorpilinszkinagy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Current Projects
+### 🧠 Hierarchical Temporal Memory (HTM)
+Researching and implementing HTM networks for machine intelligence using **[Python](https://github.com/csongorpilinszkinagy/htm-python)**, with a **[Rust](https://github.com/csongorpilinszkinagy/htm-rust)** implementation in progress.
 
-Here are some ideas to get you started:
+### 📈 Investment Portfolio Analysis
+Analyzing my past successful investment performance from **2018-2021**, focusing on financial data analysis and strategy optimization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎄 Coding challenges
+Tackling coding challenges to sharpen my algorithmic problem-solving skills. These include **Leetcode**, **Advent of code**, **Rustlings** and **Kaggle** challenges.
+
+## 🛠️ Main Skills
+### Machine Learning & AI 
+Focused on time-series forecasting, reinforcement learning, and HTM networks.
+  
+### Finance & Data Analysis
+Applying data analysis techniques to financial markets, portfolio analysis, and investment strategies.
+
+### Programming Languages
+  - **Python** (advanced, main tool for ML/AI)  
+  - **Rust** (currently learning and exploring for performance-critical applications)
+
+## 📚 What I'm Learning
+### Rust (Intermediate)  
+Transitioning HTM and other AI models into Rust to enhance performance and systems programming knowledge.
+
+### Advanced Finance & Investment Analysis
+Continuously improving my understanding of financial markets, risk management, and AI-driven trading strategies.
+
+## 💡 Let's Collaborate
+### 🤖 Machine Learning / AI Research
+Especially open to projects involving time-series models, HTM networks, self-driving or financial applications.
+
+### 🦀 Rust 
+Looking to collaborate on any beginner friendly Rust project.
